@@ -1,0 +1,31 @@
+com.example.xpdlock.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-0 C:\Users\MyBook Hype\.gradle\caches\transforms-3\0639991834c22aed3d76e6b2cfeaf991\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.xpdlock.app-jetified-window-java-1.2.0-1 C:\Users\MyBook Hype\.gradle\caches\transforms-3\13ab05921b58571413c46f451daed5f1\transformed\jetified-window-java-1.2.0\res
+com.example.xpdlock.app-jetified-window-1.2.0-2 C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\res
+com.example.xpdlock.app-jetified-activity-1.8.1-3 C:\Users\MyBook Hype\.gradle\caches\transforms-3\25155ad57b2a3498dcabd1dccf1d8fa9\transformed\jetified-activity-1.8.1\res
+com.example.xpdlock.app-jetified-lifecycle-process-2.7.0-4 C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.xpdlock.app-core-runtime-2.2.0-5 C:\Users\MyBook Hype\.gradle\caches\transforms-3\3fc8127e3b7b26f9168c4ad35891ae24\transformed\core-runtime-2.2.0\res
+com.example.xpdlock.app-jetified-tracing-1.2.0-6 C:\Users\MyBook Hype\.gradle\caches\transforms-3\4767640fc3d45e7f9f536db9d24da40d\transformed\jetified-tracing-1.2.0\res
+com.example.xpdlock.app-core-1.13.1-7 C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\res
+com.example.xpdlock.app-jetified-lifecycle-livedata-core-ktx-2.7.0-8 C:\Users\MyBook Hype\.gradle\caches\transforms-3\756d83c079f7135c4d3104154bb1963f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.xpdlock.app-jetified-core-1.0.0-9 C:\Users\MyBook Hype\.gradle\caches\transforms-3\7b2b88c266aebb8ac854a394c355c2dc\transformed\jetified-core-1.0.0\res
+com.example.xpdlock.app-jetified-annotation-experimental-1.4.0-10 C:\Users\MyBook Hype\.gradle\caches\transforms-3\7fd0fd9f2ff5a1d0bd3cc73120768e8d\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.xpdlock.app-lifecycle-livedata-2.7.0-11 C:\Users\MyBook Hype\.gradle\caches\transforms-3\87368377bd574a497c8f85cef5235722\transformed\lifecycle-livedata-2.7.0\res
+com.example.xpdlock.app-jetified-startup-runtime-1.1.1-12 C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\res
+com.example.xpdlock.app-jetified-profileinstaller-1.3.1-13 C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\res
+com.example.xpdlock.app-lifecycle-runtime-2.7.0-14 C:\Users\MyBook Hype\.gradle\caches\transforms-3\c826d0ab3be9f2b4eec3b1b8727795ee\transformed\lifecycle-runtime-2.7.0\res
+com.example.xpdlock.app-jetified-savedstate-1.2.1-15 C:\Users\MyBook Hype\.gradle\caches\transforms-3\d441cacaadedeaf384afeab6448a3d91\transformed\jetified-savedstate-1.2.1\res
+com.example.xpdlock.app-fragment-1.7.1-16 C:\Users\MyBook Hype\.gradle\caches\transforms-3\e7ded6ef0a29366f0bdaccb84e13bfcf\transformed\fragment-1.7.1\res
+com.example.xpdlock.app-lifecycle-livedata-core-2.7.0-17 C:\Users\MyBook Hype\.gradle\caches\transforms-3\f4f86e17b180b16c6409e993db51b628\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.xpdlock.app-jetified-core-ktx-1.13.1-18 C:\Users\MyBook Hype\.gradle\caches\transforms-3\f7e1f7e4df621941b65559391eac27f1\transformed\jetified-core-ktx-1.13.1\res
+com.example.xpdlock.app-lifecycle-viewmodel-2.7.0-19 C:\Users\MyBook Hype\.gradle\caches\transforms-3\fa47b689c311a3d6334ce82b7da91abe\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.xpdlock.app-packaged_res-20 C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-6.2.1\android\build\intermediates\packaged_res\debug
+com.example.xpdlock.app-packaged_res-21 C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.27\android\build\intermediates\packaged_res\debug
+com.example.xpdlock.app-packaged_res-22 C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.16\android\build\intermediates\packaged_res\debug
+com.example.xpdlock.app-packaged_res-23 C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.1\android\build\intermediates\packaged_res\debug
+com.example.xpdlock.app-pngs-24 D:\Flutter\xpdlock\android\app\build\generated\res\pngs\debug
+com.example.xpdlock.app-resValues-25 D:\Flutter\xpdlock\android\app\build\generated\res\resValues\debug
+com.example.xpdlock.app-packageDebugResources-26 D:\Flutter\xpdlock\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.xpdlock.app-packageDebugResources-27 D:\Flutter\xpdlock\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.xpdlock.app-merged_res-28 D:\Flutter\xpdlock\android\app\build\intermediates\merged_res\debug
+com.example.xpdlock.app-debug-29 D:\Flutter\xpdlock\android\app\src\debug\res
+com.example.xpdlock.app-main-30 D:\Flutter\xpdlock\android\app\src\main\res

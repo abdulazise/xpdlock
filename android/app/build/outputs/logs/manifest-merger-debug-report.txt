@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:2:5-33:19
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+MERGED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\5365362bf0010d61a575a27425c9f6d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\5365362bf0010d61a575a27425c9f6d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+MERGED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.27\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.16\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite_android] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.1\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\13ab05921b58571413c46f451daed5f1\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\e7ded6ef0a29366f0bdaccb84e13bfcf\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\25155ad57b2a3498dcabd1dccf1d8fa9\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a81607def63051925a59e557a63daaab\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\1c5c9658ee6686f2e2f670573d73a467\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\756d83c079f7135c4d3104154bb1963f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\87368377bd574a497c8f85cef5235722\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\fa47b689c311a3d6334ce82b7da91abe\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\f4f86e17b180b16c6409e993db51b628\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\d441cacaadedeaf384afeab6448a3d91\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\0639991834c22aed3d76e6b2cfeaf991\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\f7e1f7e4df621941b65559391eac27f1\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\03474c2be5ebb38470a019ab46854a02\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\c826d0ab3be9f2b4eec3b1b8727795ee\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4767640fc3d45e7f9f536db9d24da40d\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\3fc8127e3b7b26f9168c4ad35891ae24\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\fcfdf2582949aa63c2f2936949eb2233\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\5365362bf0010d61a575a27425c9f6d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\7b2b88c266aebb8ac854a394c355c2dc\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\7fd0fd9f2ff5a1d0bd3cc73120768e8d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b0b114089e633530a2cdf54a979378a2\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:39:5-44:15
+MERGED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:15
+MERGED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from D:\Flutter\xpdlock\android\app\src\main\AndroidManifest.xml:42:19-48
+uses-permission#android.permission.INTERNET
+ADDED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+MERGED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.27\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.27\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.16\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.16\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.1\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.1\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\13ab05921b58571413c46f451daed5f1\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\13ab05921b58571413c46f451daed5f1\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\e7ded6ef0a29366f0bdaccb84e13bfcf\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\e7ded6ef0a29366f0bdaccb84e13bfcf\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\25155ad57b2a3498dcabd1dccf1d8fa9\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\25155ad57b2a3498dcabd1dccf1d8fa9\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a81607def63051925a59e557a63daaab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a81607def63051925a59e557a63daaab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\1c5c9658ee6686f2e2f670573d73a467\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\1c5c9658ee6686f2e2f670573d73a467\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\756d83c079f7135c4d3104154bb1963f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\756d83c079f7135c4d3104154bb1963f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\87368377bd574a497c8f85cef5235722\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\87368377bd574a497c8f85cef5235722\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\fa47b689c311a3d6334ce82b7da91abe\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\fa47b689c311a3d6334ce82b7da91abe\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\f4f86e17b180b16c6409e993db51b628\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\f4f86e17b180b16c6409e993db51b628\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\d441cacaadedeaf384afeab6448a3d91\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\d441cacaadedeaf384afeab6448a3d91\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\0639991834c22aed3d76e6b2cfeaf991\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\0639991834c22aed3d76e6b2cfeaf991\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\f7e1f7e4df621941b65559391eac27f1\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\f7e1f7e4df621941b65559391eac27f1\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\03474c2be5ebb38470a019ab46854a02\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\03474c2be5ebb38470a019ab46854a02\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\c826d0ab3be9f2b4eec3b1b8727795ee\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\c826d0ab3be9f2b4eec3b1b8727795ee\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4767640fc3d45e7f9f536db9d24da40d\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4767640fc3d45e7f9f536db9d24da40d\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\3fc8127e3b7b26f9168c4ad35891ae24\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\3fc8127e3b7b26f9168c4ad35891ae24\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\fcfdf2582949aa63c2f2936949eb2233\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\fcfdf2582949aa63c2f2936949eb2233\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\5365362bf0010d61a575a27425c9f6d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\5365362bf0010d61a575a27425c9f6d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\7b2b88c266aebb8ac854a394c355c2dc\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\7b2b88c266aebb8ac854a394c355c2dc\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\7fd0fd9f2ff5a1d0bd3cc73120768e8d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\7fd0fd9f2ff5a1d0bd3cc73120768e8d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b0b114089e633530a2cdf54a979378a2\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b0b114089e633530a2cdf54a979378a2\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Flutter\xpdlock\android\app\src\debug\AndroidManifest.xml
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\MyBook Hype\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-9.1.0\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-69
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\154ecf40d80d4a751eac26c68870f956\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\a87166032f9d415770c0a506586f9bc4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\MyBook Hype\.gradle\caches\transforms-3\2d9f0e2a96bb1fcca5282913a6ad75cb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.xpdlock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.xpdlock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\4c7c4a238786ebe14815cf72449b401b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\MyBook Hype\.gradle\caches\transforms-3\b74f3efd5e186697a2a19da47afe9234\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

@@ -1,0 +1,61 @@
+name: xpdlock
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.2 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^9.1.0
+  cached_network_image: ^3.3.1
+  flutter_svg: ^2.0.17
+  encrypt: ^5.0.3
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.2
+  pointycastle: ^3.7.3
+  open_file: ^3.3.0
+  path: ^1.8.3
+  crypto: ^3.0.3
+  logging: ^1.2.0
+  cupertino_icons: ^1.0.8
+  device_info_plus: ^10.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.2.19
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/key.png
+fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Italic.ttf
+        - asset: assets/fonts/Poppins-BoldItalic.ttf
+          weight: 700
+
+flutter_native_splash:
+  color: "#000000" 
+  android: true
+  ios: true
+  web: false
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/xpdlogo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/xpdlogo.png"
